@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+
+    <string name="moj_tekst1">Pierwszy tekst</string>
+    <string name="moj_tekst2">Drugi tekst</string>
+    <string name="moj_tekst3">Trzeci tekst</string>
+    <string name="moj_tekst4">Czwarty tekst</string>
+    <string name="moj_tekst5">Piąty tekst</string>
+
+
+</resources>
